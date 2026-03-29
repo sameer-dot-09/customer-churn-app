@@ -31,4 +31,4 @@ This project predicts whether a customer will churn based on their usage and ser
 [Click Here](YOUR_LINK_HERE)
 
 ## 👨‍💻 Author
-Your Name
+Sameer Bhor
